@@ -150,7 +150,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema1/6.svg"
-            alt="La Figura 1 se denomina «Introducción al monitoreo agrícola». Presenta un mapa conceptual sobre el tema, que se divide en seis secciones principales: importancia, beneficios, aplicaciones, tecnologías utilizadas, desafíos y conclusiones del monitoreo agrícola, cada una con sus respectivas subdivisiones que detallan aspectos específicos de cada tema. Para acceder al diagrama: https://www.mindomo.com/mindmap/f3b0c216d7654928a710777ef5f2fd07 "
+            alt="La Figura 1 se denomina «Introducción al monitoreo agrícola». Presenta un mapa conceptual sobre el tema, que se divide en seis secciones principales: importancia, beneficios, aplicaciones, tecnologías utilizadas, desafíos y conclusiones del monitoreo agrícola, cada una con sus respectivas subdivisiones que detallan aspectos específicos de cada tema."
           />
         </figure>
       </div>

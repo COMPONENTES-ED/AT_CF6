@@ -262,7 +262,7 @@ export default {
   global: {
     Name: 'Gestión y análisis de datos para el monitoreo de labores agrícolas',
     Description:
-      'Este componente formativo proporciona bases teóricas y prácticas para gestionar y analizar datos en sistemas productivos agrícolas. A través de tecnologías como sensores IoT, algoritmos de Machine Learning y herramientas de análisis de datos desarrollando habilidades para recolectar, procesar y visualizar información clave. Se focaliza en la toma de decisiones, optimizando recursos y mejorando la productividad bajo criterios de sostenibilidad y eficiencia.',
+      'Este componente formativo proporciona bases teóricas y prácticas para gestionar y analizar datos en sistemas productivos agrícolas. A través de tecnologías como sensores IoT, algoritmos de <em>Machine Learning</em> y herramientas de análisis de datos, desarrollando habilidades para recolectar, procesar y visualizar información clave. Se focaliza en la toma de decisiones, optimizando recursos y mejorando la productividad bajo criterios de sostenibilidad y eficiencia.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

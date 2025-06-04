@@ -24,8 +24,8 @@
                   tipo de datos que se recopilan hasta las tecnologías y
                   metodologías que facilitan su análisis, este capítulo
                   establece los cimientos teóricos necesarios para entender cómo
-                  la ciencia de datos, el Big Data y la inteligencia artificial
-                  (IA) están transformando la agricultura.
+                  la ciencia de datos, el <em>Big Data</em> y la inteligencia
+                  artificial (IA) están transformando la agricultura.
                 </p>
               </div>
             </div>
@@ -305,7 +305,7 @@
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
         <h2 id="t_2_3">
-          2.3 Introducción al Big Data y su impacto en la agricultura
+          2.3 Introducción al <em>Big Data</em> y su impacto en la agricultura
         </h2>
       </div>
       <div class="cont_2_4">
@@ -316,13 +316,13 @@
               style="background-color:#CBF0F5;border-radius:10px;"
             >
               <p class="mb-0">
-                El concepto de Big Data se refiere a la gestión de volúmenes
-                masivos de datos que son demasiado grandes, rápidos y diversos
-                para ser procesados con herramientas tradicionales. En la
-                agricultura, el Big Data está transformando la forma en que los
-                agricultores entienden y manejan sus sistemas productivos,
-                permitiendo una integración más profunda de diversas fuentes de
-                datos.
+                El concepto de <em>Big Data</em> se refiere a la gestión de
+                volúmenes masivos de datos que son demasiado grandes, rápidos y
+                diversos para ser procesados con herramientas tradicionales. En
+                la agricultura, el <em>Big Data</em> está transformando la forma
+                en que los agricultores entienden y manejan sus sistemas
+                productivos, permitiendo una integración más profunda de
+                diversas fuentes de datos.
               </p>
             </div>
           </div>
@@ -339,13 +339,13 @@
               style="background-color:#E3F0D4;border-radius:7px;border:2px #3BA935 dashed;"
             >
               <p class="mb-0">
-                El análisis de Big Data facilita la implementación de prácticas
-                agrícolas de precisión, lo que significa que cada decisión,
-                desde la siembra hasta la cosecha, se basa en un análisis
-                detallado de datos específicos para cada parcela. Esto permite
-                no solo maximizar la eficiencia y los rendimientos, sino también
-                mitigar riesgos como plagas, enfermedades y fenómenos climáticos
-                adversos.
+                El análisis de <em>Big Data</em> facilita la implementación de
+                prácticas agrícolas de precisión, lo que significa que cada
+                decisión, desde la siembra hasta la cosecha, se basa en un
+                análisis detallado de datos específicos para cada parcela. Esto
+                permite no solo maximizar la eficiencia y los rendimientos, sino
+                también mitigar riesgos como plagas, enfermedades y fenómenos
+                climáticos adversos.
               </p>
             </div>
           </div>
@@ -356,7 +356,7 @@
               <figure><img src="@/assets/curso/tema2/4.svg" /></figure>
             </div>
             <div class="col ps-2" style="place-self:center;">
-              <h3 class="mb-0 pe-4">Características del big data</h3>
+              <h3 class="mb-0 pe-4">Características del <em>big data</em></h3>
             </div>
           </div>
         </div>
@@ -497,7 +497,8 @@
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
         <h2 id="t_2_4">
-          2.4 Machine Learning e inteligencia artificial: aplicaciones agrícolas
+          2.4 <em>Machine Learning</em> e inteligencia artificial: aplicaciones
+          agrícolas
         </h2>
       </div>
       <div class="row">

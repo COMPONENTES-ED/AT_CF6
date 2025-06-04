@@ -22,7 +22,7 @@
           </p>
           <div class="p-4" style="background-color:#F3F0EA;">
             <p class="mb-0">
-              En este apartado se aborda las etapas principales del ciclo de
+              En este apartado se abordan las etapas principales del ciclo de
               vida de los datos agrícolas, proporcionando al aprendiz un marco
               estructurado para comprender cómo se gestionan y utilizan los
               datos en sistemas productivos. Desde la recolección y
@@ -222,8 +222,8 @@
               </figure>
               <h5>Herramientas recomendadas</h5>
               <p class="mt-4">
-                Software como Excel, Python (Pandas, Numpy) y R para automatizar
-                procesos de limpieza y transformación.
+                <em>Software</em> como Excel, Python (Pandas, Numpy) y R para
+                automatizar procesos de limpieza y transformación.
               </p>
             </div>
           </div>
@@ -322,7 +322,8 @@
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
         <h2 id="t_3_4">
-          3.4 Análisis y visualización: Representación gráfica y dashboards
+          3.4 Análisis y visualización: Representación gráfica y
+          <em>dashboards</em>
         </h2>
       </div>
       <p data-aos="fade-right">
@@ -340,7 +341,7 @@
               </div>
               <div class="col-md">
                 <p class="mb-0">
-                  Las herramientas de visualización, como dashboards
+                  Las herramientas de visualización, como <em>dashboards</em>
                   interactivos, facilitan la comprensión de datos complejos y
                   permiten monitorear múltiples variables en tiempo real. Esto
                   es especialmente útil para gestionar grandes extensiones de
@@ -379,7 +380,10 @@
                 resultados.
               </p>
             </div>
-            <div class="row col-xl-11 m-auto" titulo="Dashboards interactivos">
+            <div
+              class="row col-xl-11 m-auto"
+              titulo="<em>Dashboards</em> interactivos"
+            >
               <p>
                 Herramientas como Tableau y Power BI para representar datos de
                 manera visual y dinámica.
@@ -412,7 +416,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema3/18.svg"
-            alt="La Figura 2 se denomina « Resumen ciclo de vida de las datos agrícolas». El mapa conceptual. Presenta un mapa conceptual que se divide en tres áreas principales: la definición del ciclo de vida de los datos con sus etapas desde la generación hasta la aplicación, la importancia del ciclo en la agricultura (que incluye la precisión de la información, accesibilidad y uso para decisiones), y los beneficios del manejo eficiente que comprende la optimización de recursos, sostenibilidad de cultivos y capacidad de respuesta a cambios. Para acceder al diagrama: https://www.mindomo.com/mindmap/42ed64a4c85045c3be91833eecb39717"
+            alt="La Figura 2 se denomina « Resumen ciclo de vida de las datos agrícolas». El mapa conceptual. Presenta un mapa conceptual que se divide en tres áreas principales: la definición del ciclo de vida de los datos con sus etapas desde la generación hasta la aplicación, la importancia del ciclo en la agricultura (que incluye la precisión de la información, accesibilidad y uso para decisiones), y los beneficios del manejo eficiente que comprende la optimización de recursos, sostenibilidad de cultivos y capacidad de respuesta a cambios."
           />
         </figure>
       </div>

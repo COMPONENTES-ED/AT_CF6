@@ -29,11 +29,11 @@
                 <p class="mb-0">
                   En un entorno de producción agrícola altamente competitivo, la
                   capacidad de integrar tecnologías avanzadas como sensores IoT,
-                  plataformas de visualización y software analítico ha llevado a
-                  la agricultura a un nuevo nivel de precisión y control. Estas
-                  herramientas no solo mejoran la recolección y análisis de
-                  datos, sino que también optimizan recursos y aumentan la
-                  productividad.
+                  plataformas de visualización y <em>software</em> analítico ha
+                  llevado a la agricultura a un nuevo nivel de precisión y
+                  control. Estas herramientas no solo mejoran la recolección y
+                  análisis de datos, sino que también optimizan recursos y
+                  aumentan la productividad.
                 </p>
               </div>
             </div>
@@ -146,7 +146,9 @@
       </p>
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
-        <h2 id="t_4_2">4.2 Plataformas y software para el análisis de datos</h2>
+        <h2 id="t_4_2">
+          4.2 Plataformas y <em>software</em> para el análisis de datos
+        </h2>
       </div>
       <div class="row" data-aos="fade-up">
         <div class="col-lg pe-lg-0">
@@ -157,10 +159,10 @@
             <p class="mb-0">
               El análisis de datos en la agricultura requiere de herramientas
               especializadas que permitan interpretar grandes volúmenes de
-              información de manera eficiente. Las plataformas y software de
-              análisis son fundamentales para convertir los datos brutos en
-              conocimientos accionables, facilitando la toma de decisiones
-              informadas.
+              información de manera eficiente. Las plataformas y
+              <em>software</em> de análisis son fundamentales para convertir los
+              datos brutos en conocimientos accionables, facilitando la toma de
+              decisiones informadas.
             </p>
           </div>
         </div>
@@ -219,7 +221,9 @@
                   <span class="fw-bold" style="color:#12263F;">2</span>
                 </div>
                 <span
-                  ><strong>Software estadístico como R y Python:</strong>
+                  ><strong
+                    ><em>Software</em> estadístico como R y Python:</strong
+                  >
                   permiten análisis avanzados y modelado predictivo.</span
                 >
               </li>
@@ -259,9 +263,9 @@
             <p class="mb-0">
               La visualización de datos es un componente esencial en el
               procesamiento de información agrícola. A través de gráficos, mapas
-              y dashboards, los agricultores pueden interpretar datos complejos
-              de manera rápida y efectiva, lo que facilita la identificación de
-              patrones y la toma de decisiones.
+              y <em>dashboards</em>, los agricultores pueden interpretar datos
+              complejos de manera rápida y efectiva, lo que facilita la
+              identificación de patrones y la toma de decisiones.
             </p>
           </div>
         </div>
@@ -318,8 +322,8 @@
                   <i class="fas fa-check-circle" style="color:#78B62E;"></i
                   ><span
                     ><strong>Tableau:</strong> facilita la creación de
-                    dashboards interactivos que integran múltiples fuentes de
-                    datos.</span
+                    <em>dashboards</em> interactivos que integran múltiples
+                    fuentes de datos.</span
                   >
                 </li>
                 <li class="d-flex bg-white p-2 mb-0" style="border-radius:4px;">
@@ -362,11 +366,11 @@
           </p>
           <p class="mb-0">
             La adopción de Python y R en la agricultura ha permitido un análisis
-            más avanzado, incluyendo modelos predictivos y técnicas de Machine
-            Learning. Estos lenguajes no solo facilitan la automatización de
-            tareas, sino que también proporcionan la flexibilidad necesaria para
-            adaptar los análisis a las necesidades específicas de cada sistema
-            productivo.
+            más avanzado, incluyendo modelos predictivos y técnicas de
+            <em>Machine Learning</em>. Estos lenguajes no solo facilitan la
+            automatización de tareas, sino que también proporcionan la
+            flexibilidad necesaria para adaptar los análisis a las necesidades
+            específicas de cada sistema productivo.
           </p>
         </div>
       </div>
@@ -400,7 +404,7 @@
               titulo="Automatización y escalabilidad"
             >
               <p>
-                Creación de scripts que permiten análisis repetitivos y
+                Creación de <em>scripts</em> que permiten análisis repetitivos y
                 escalables.
               </p>
             </div>

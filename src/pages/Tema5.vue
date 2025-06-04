@@ -215,7 +215,7 @@
                   style="max-width:88px;"
                 />
               </figure>
-              <h5>Random Forest</h5>
+              <h5><em>Random Forest</em></h5>
               <p class="mt-4">
                 Conjunto de árboles de decisión que mejora la precisión al
                 reducir la variabilidad y el sobreajuste.
@@ -325,7 +325,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema5/13.svg"
-            alt="La Figura 3 se denomina «Resumen técnicas de análisis de datos en agricultura». El mapa conceptual se ramifica en cinco temas principales: la importancia del análisis y modelado (que facilita decisiones y transforma información), los beneficios (incluyendo predicción y optimización), las técnicas utilizadas (como análisis estadístico y minería de datos), los pasos para realizar el análisis (desde recopilación hasta evaluación), y los retos y consideraciones (como calidad de datos y mantenimiento de modelos). Para acceder al diagrama: https://www.mindomo.com/mindmap/ef8008328d8b4c0c856bafc76c6f421b "
+            alt="La Figura 3 se denomina «Resumen técnicas de análisis de datos en agricultura». El mapa conceptual se ramifica en cinco temas principales: la importancia del análisis y modelado (que facilita decisiones y transforma información), los beneficios (incluyendo predicción y optimización), las técnicas utilizadas (como análisis estadístico y minería de datos), los pasos para realizar el análisis (desde recopilación hasta evaluación), y los retos y consideraciones (como calidad de datos y mantenimiento de modelos)."
           />
         </figure>
       </div>

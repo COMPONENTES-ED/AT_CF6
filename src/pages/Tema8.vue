@@ -78,8 +78,8 @@
               </div>
               <div class="row col-xl-11 m-auto" titulo="Resultados">
                 <p>
-                  Reducción del consumo de agua en un 25% y aumento del
-                  rendimiento del cultivo en un 15%.
+                  Reducción del consumo de agua en un 25 % y aumento del
+                  rendimiento del cultivo en un 15 %.
                 </p>
               </div>
             </AccordionRED>
@@ -94,8 +94,8 @@
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
         <h2 id="t_8_2">
-          8.2 Uso de Big Data para la predicción de rendimiento en plantaciones
-          de café
+          8.2 Uso de <em>Big Data</em> para la predicción de rendimiento en
+          plantaciones de café
         </h2>
       </div>
       <div class="row">
@@ -154,8 +154,8 @@
                 </div>
                 <span
                   >Resultados: mejora de la precisión en las predicciones de
-                  rendimiento en un 20% y reducción de costos operativos en un
-                  10%.</span
+                  rendimiento en un 20 % y reducción de costos operativos en un
+                  10 %.</span
                 >
               </li>
             </ol>
@@ -173,7 +173,8 @@
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
         <h2 id="t_8_3">
-          8.3 Aplicación de Machine Learning en el monitoreo de invernaderos
+          8.3 Aplicación de <em>Machine Learning</em> en el monitoreo de
+          invernaderos
         </h2>
       </div>
       <div class="cont_2_4">
@@ -196,9 +197,9 @@
                     producción agrícola, pero requieren una gestión cuidadosa
                     para optimizar el uso de recursos y maximizar la
                     productividad. Este estudio de caso examina cómo se aplican
-                    algoritmos de Machine Learning para monitorear y controlar
-                    las condiciones dentro de un invernadero de cultivo de
-                    tomate.
+                    algoritmos de <em>Machine Learning</em> para monitorear y
+                    controlar las condiciones dentro de un invernadero de
+                    cultivo de tomate.
                   </p>
                 </div>
               </div>
@@ -223,8 +224,8 @@
               </div>
               <div class="row col-xl-11 m-auto" titulo="Resultados">
                 <p>
-                  Reducción del consumo de energía en un 30% y mejora del
-                  rendimiento del cultivo en un 20%.
+                  Reducción del consumo de energía en un 30 % y mejora del
+                  rendimiento del cultivo en un 20 %.
                 </p>
               </div>
             </AccordionRED>

@@ -265,15 +265,16 @@
               <li class="d-flex bg-white p-2" style="border-radius:4px;">
                 <i class="fas fa-check-circle" style="color:#78B62E;"></i
                 ><span
-                  ><strong>Tableau:</strong> facilita la creación de dashboards
-                  interactivos que integran múltiples fuentes de datos.</span
+                  ><strong>Tableau:</strong> facilita la creación de
+                  <em>dashboards</em> interactivos que integran múltiples
+                  fuentes de datos.</span
                 >
               </li>
               <li class="d-flex bg-white p-2 mb-0" style="border-radius:4px;">
                 <i class="fas fa-check-circle" style="color:#78B62E;"></i
                 ><span
-                  ><strong>Software de modelado climático:</strong> simula
-                  escenarios futuros y su impacto en la producción.</span
+                  ><strong><em>Software</em> de modelado climático:</strong>
+                  simula escenarios futuros y su impacto en la producción.</span
                 >
               </li>
             </ul>
@@ -302,7 +303,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema6/9.svg"
-            alt="La Figura 4 se denomina «Resumen aplicaciones prácticas del monitoreo y procesamiento de datos». Presenta un mapa conceptual que se estructura en cuatro secciones principales: los desafíos en la agricultura, la integración de tecnologías de monitoreo y análisis de datos, las aplicaciones específicas (que incluyen optimización del proceso productivo, mejora de eficiencia operativa y promoción de la sostenibilidad), y los beneficios de estas aplicaciones como el aumento de productividad y la reducción de costos. Para acceder al diagrama: https://www.mindomo.com/mindmap/ca22a9cacb574536bd69fc35575e3b26"
+            alt="La Figura 4 se denomina «Resumen aplicaciones prácticas del monitoreo y procesamiento de datos». Presenta un mapa conceptual que se estructura en cuatro secciones principales: los desafíos en la agricultura, la integración de tecnologías de monitoreo y análisis de datos, las aplicaciones específicas (que incluyen optimización del proceso productivo, mejora de eficiencia operativa y promoción de la sostenibilidad), y los beneficios de estas aplicaciones como el aumento de productividad y la reducción de costos."
           />
         </figure>
       </div>
