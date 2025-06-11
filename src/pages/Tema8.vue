@@ -104,7 +104,7 @@
             El café es un cultivo de alto valor, pero su producción está
             altamente influenciada por factores como el clima, el manejo del
             suelo y la aparición de plagas. Este estudio de caso explora cómo
-            una cooperativa cafetera utiliza Big Data para predecir el
+            una cooperativa cafetera utiliza <em>Big Data</em> para predecir el
             rendimiento de sus plantaciones y planificar estrategias de manejo
             más efectivas.
           </p>
@@ -218,8 +218,8 @@
               <div class="row col-xl-11 m-auto" titulo="Tecnologías utilizadas">
                 <p>
                   Sensores de temperatura y humedad, cámaras multiespectrales y
-                  algoritmos de Machine Learning para predecir las necesidades
-                  del cultivo.
+                  algoritmos de <em>Machine Learning</em> para predecir las
+                  necesidades del cultivo.
                 </p>
               </div>
               <div class="row col-xl-11 m-auto" titulo="Resultados">

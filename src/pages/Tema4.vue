@@ -209,8 +209,8 @@
                   ><strong
                     >Plataformas de análisis como Tableau y Power BI:</strong
                   >
-                  proporcionan dashboards interactivos para visualizar datos
-                  clave.</span
+                  proporcionan <em>dashboards</em> interactivos para visualizar
+                  datos clave.</span
                 >
               </li>
               <li class="d-flex">

@@ -21,12 +21,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba tus conocimientos sobre gestión y análisis de datos para el
+              Prueba tus conocimientos sobre Gestión y análisis de datos para el
               monitoreo de labores agrícolas
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre gestión y análisis de datos
+            Validar el conocimiento adquirido sobre Gestión y análisis de datos
             para el monitoreo de labores agrícolas. Esto se trabaja a partir de
             un conjunto de preguntas con el propósito de buscar una dinámica de
             razonamiento ágil sobre opciones cerradas y reafirmar un

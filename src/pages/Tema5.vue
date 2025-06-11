@@ -325,7 +325,8 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema5/13.svg"
-            alt="La Figura 3 se denomina «Resumen técnicas de análisis de datos en agricultura». El mapa conceptual se ramifica en cinco temas principales: la importancia del análisis y modelado (que facilita decisiones y transforma información), los beneficios (incluyendo predicción y optimización), las técnicas utilizadas (como análisis estadístico y minería de datos), los pasos para realizar el análisis (desde recopilación hasta evaluación), y los retos y consideraciones (como calidad de datos y mantenimiento de modelos)."
+            alt="El diagrama «Resumen técnicas de análisis de datos en agricultura» se ramifica en cinco temas principales: la importancia del análisis y modelado (que facilita decisiones y transforma información), los beneficios (incluyendo predicción y optimización), las técnicas utilizadas (como análisis estadístico y minería de datos), los pasos para realizar el análisis (desde recopilación hasta evaluación), y los retos y consideraciones (como calidad de datos y mantenimiento de modelos).
+"
           />
         </figure>
       </div>

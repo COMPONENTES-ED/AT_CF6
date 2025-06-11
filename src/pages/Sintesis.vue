@@ -79,7 +79,7 @@
           <figure data-aos="fade-up" data-aos-duration="750">
             <img
               src="@/assets/curso/sintesis.svg"
-              alt="Se denomina «Síntesis del componente». El diagrama muestra un mapa conceptual de gestión y análisis de datos para el monitoreo de labores agrícolas, que se ramifica en 10 áreas principales. Abarca desde la importancia del uso eficiente de datos hasta la preparación para desafíos del sector, incluyendo tecnologías avanzadas (sensores IoT, drones), procesamiento de datos, desarrollo de competencias, y estrategias para optimizar recursos. Los subtemas detallan aspectos específicos como técnicas de ciencia de datos, machine learning y análisis de datos agrícolas."
+              alt="La síntesis muestra un mapa conceptual de gestión y análisis de datos para el monitoreo de labores agrícolas, que se ramifica en 10 áreas principales. Abarca desde la importancia del uso eficiente de datos hasta la preparación para desafíos del sector, incluyendo tecnologías avanzadas (sensores IoT, drones), procesamiento de datos, desarrollo de competencias, y estrategias para optimizar recursos. Los subtemas detallan aspectos específicos como técnicas de ciencia de datos, machine learning y análisis de datos agrícolas."
             />
           </figure>
         </div>

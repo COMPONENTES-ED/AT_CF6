@@ -416,7 +416,8 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema3/18.svg"
-            alt="La Figura 2 se denomina « Resumen ciclo de vida de las datos agrícolas». El mapa conceptual. Presenta un mapa conceptual que se divide en tres áreas principales: la definición del ciclo de vida de los datos con sus etapas desde la generación hasta la aplicación, la importancia del ciclo en la agricultura (que incluye la precisión de la información, accesibilidad y uso para decisiones), y los beneficios del manejo eficiente que comprende la optimización de recursos, sostenibilidad de cultivos y capacidad de respuesta a cambios."
+            alt="El diagrama «Resumen ciclo de vida de los datos agrícolas», presenta un mapa conceptual que se divide en tres áreas principales: la definición del ciclo de vida de los datos con sus etapas desde la generación hasta la aplicación, la importancia del ciclo en la agricultura (que incluye la precisión de la información, accesibilidad y uso para decisiones), y los beneficios del manejo eficiente que comprende la optimización de recursos, sostenibilidad de cultivos y capacidad de respuesta a cambios.
+"
           />
         </figure>
       </div>
