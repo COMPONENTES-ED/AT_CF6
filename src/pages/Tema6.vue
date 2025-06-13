@@ -296,7 +296,7 @@
         <h5>Figura 4.</h5>
         <span
           >Resumen aplicaciones prácticas del monitoreo y procesamiento de
-          datosltura.</span
+          datos.</span
         >
       </div>
       <div class="p-3 p-lg-4 pt-xl-5 pb-xl-5" style="background-color:#EAEFF4;">
