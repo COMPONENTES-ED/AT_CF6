@@ -59,63 +59,56 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Caracterización de Sistemas Productivos',
-          referencia:
-            'Food and Agriculture Organization of the United Nations. (2015). <em>World Programme for the Census of Agriculture</em> 2020.',
-          tipo: 'Documento',
-          link: 'https://www.fao.org/3/i4913e/i4913e.pdf',
-        },
-        {
           tema: 'Monitoreo de Variables en Sistemas Productivos',
           referencia:
-            'International Society for Precision Agriculture. (2020). <em>Precision Agriculture Basics</em>.',
+            'Edu.co. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
           tipo: 'Documento',
           link:
-            'https://www.ispag.org/proceedings/?action=abstract&id=1234&title=Precision+Agriculture+Basics&search=types',
+            'https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
         },
         {
           tema: 'Sensores IoT en Agricultura',
           referencia:
-            'Smart Agriculture. (2021). <em>IoT-Based Smart Agriculture: Sensors and Applications</em>.',
+            'Campus, A. [@AgroTechCampus]. (s/f). IoT en la Agricultura. [Video]. Youtube. Recuperado el 18 de junio de 2025, de https://www.youtube.com/watch?v=BU77lTxF5KY',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=IoT_Agriculture',
+          link: 'https://www.youtube.com/watch?v=BU77lTxF5KY',
         },
         {
           tema: 'Análisis de Datos Agrícolas',
           referencia:
-            'DataCamp. (2022). <em>Introduction to Data Analysis in Agriculture</em>',
-          tipo: 'Curso en línea',
+            'Researchgate.net. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
+          tipo: 'Documento',
           link:
-            'https://www.datacamp.com/courses/introduction-to-data-analysis-in-agriculture',
+            'https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
         },
         {
           tema: 'Simuladores de Cultivos',
           referencia:
-            'Food and Agriculture Organization of the United Nations. (2019). <em>AquaCrop</em>.',
+            'Food and Agriculture Organization of the United Nations. (2019). AquaCrop. [Simulador]. FAO.',
           tipo: 'Simulador',
-          link: 'http://www.fao.org/aquacrop/en/',
+          link: 'http://www.fao.org/aquacrop/es/',
         },
         {
           tema: 'Ética en la Gestión de Datos Agrícolas',
           referencia:
-            'International Food Policy Research Institute. (2018). <em>Data Ethics in Agricultural Research</em>.',
+            'Mark, R. (2019). Ethics of using AI and big data in agriculture: The case of a large agriculture multinational. ORBIT Journal, 2(2), 1–27. https://doi.org/10.29297/orbit.v2i2.109',
           tipo: 'Documento',
           link:
-            'https://www.ifpri.org/publication/data-ethics-agricultural-research',
+            'https://www.sciencedirect.com/science/article/pii/S2515856220300110',
         },
         {
           tema: 'Sostenibilidad en Agricultura',
           referencia:
-            'Sustainable Agriculture Research & Education. (2021). <em>Sustainable Agriculture: Principles and Practices</em>.',
+            'Español, C. en [@cnnee]. (n.d.). ¿Cómo se puede alcanzar una agricultura sostenible?. [Video]. Youtube. Recuperado el 18 de junio de 2025, de https://www.youtube.com/watch?v=c26KwI1Vc6o',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=Sustainable_Agriculture',
+          link: 'https://www.youtube.com/watch?v=c26KwI1Vc6o',
         },
         {
           tema: 'Simulador de Gestión Agrícola',
           referencia:
-            'International Rice Research Institute. (2020). <em>Rice Crop Manager</em>.',
+            'Home. (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative. https://www.apsim.info/',
           tipo: 'Simulador',
-          link: 'https://www.irri.org/rice-crop-manager',
+          link: 'https://www.apsim.info/',
         },
       ]
     },

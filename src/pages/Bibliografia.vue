@@ -23,85 +23,79 @@ export default {
     referencias: [
       {
         referencia:
-          'DataCamp. (2022). <em>Introduction to Data Analysis in Agriculture</em> [Curso en línea]. DataCamp.',
-        link:
-          'https://www.datacamp.com/courses/introduction-to-data-analysis-in-agriculture',
+          'Campus, A. [@AgroTechCampus]. (s/f). IoT en la Agricultura. Youtube. Recuperado el 18 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=BU77lTxF5KY',
       },
       {
         referencia:
-          'Food and Agriculture Organization of the United Nations. (2015). <em>World Programme for the Census of Agriculture 2020</em>. FAO.',
+          'Censo Nacional Agropecuario 2014. (n.d.). Gov.co. Recuperado el 18 de junio de 2025, de',
+        link:
+          'https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014',
+      },
+      {
+        referencia:
+          'Edu.co. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de',
+        link:
+          'https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
+      },
+      {
+        referencia:
+          'Español, C. en [@cnnee]. (n.d.). ¿Cómo se puede alcanzar una agricultura sostenible?. [Video]. Youtube. Recuperado el 18 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=c26KwI1Vc6o',
+      },
+      {
+        referencia:
+          'Food and Agriculture Organization of the United Nations. (2015). World Programme for the Census of Agriculture 2020. [Documento PDF]. FAO.',
         link: 'https://www.fao.org/3/i4913e/i4913e.pdf',
       },
       {
         referencia:
-          'Food and Agriculture Organization of the United Nations. (2019). <em>AquaCrop</em> [Simulador]. FAO. ',
-        link: 'http://www.fao.org/aquacrop/en/',
+          'Food and Agriculture Organization of the United Nations. (2019). AquaCrop [Simulador]. FAO.',
+        link: 'http://www.fao.org/aquacrop/es/',
       },
       {
-        referencia:
-          'Gamco. (2021). <em>Los 5 desafíos del Big Data en Aprendizaje Automático</em>. Gamco. ',
+        referencia: 'Gamco. (2021). Los 5 desafíos del Big Data. Gamco.',
         link: 'https://gamco.es/los-5-desafios-del-big-data/',
       },
       {
         referencia:
-          'Hernández-Leal, E. J., Duque-Méndez, N. D., & Moreno-Cadavid, J. (2017). <em>Big Data: una exploración de investigaciones, tecnologías y casos de aplicación</em>. TecnoLógicas, 20(39), 17-24.',
+          'García-Arteaga, J. J., Zambrano-Zambrano, J. J., Alcivar-Cevallos, R., & Zambrano-Romero, W. D. (2020). Predicción del rendimiento de cultivos agrícolas usando aprendizaje automático. Revista Arbitrada Interdisciplinaria Koinonía, 5(2), 144.',
+        link: 'https://doi.org/10.35381/r.k.v5i2.1013',
+      },
+      {
+        referencia:
+          'Hernández-Leal, E. J., Duque-Méndez, N. D., & Moreno-Cadavid, J. (2017). Big Data: una exploración de investigaciones, tecnologías y casos de aplicación. TecnoLógicas, 20(39), 17-24.',
         link: 'https://doi.org/10.22430/22565337.701',
       },
       {
-        referencia: 'IBM. (2021). <em>What is Machine Learning?</em> IBM. ',
+        referencia:
+          'Home. (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative.',
+        link: 'https://www.apsim.info/',
+      },
+      {
+        referencia: 'IBM. (2021). What is Machine Learning?. IBM.',
         link: 'https://www.ibm.com/topics/machine-learning',
       },
       {
         referencia:
-          'International Food Policy Research Institute. (2018). <em>Data Ethics in Agricultural Research</em>. IFPRI.',
-        link:
-          'https://www.ifpri.org/publication/data-ethics-agricultural-research',
+          'Mark, R. (2019). Ethics of using AI and big data in agriculture: The case of a large agriculture multinational. ORBIT Journal, 2(2), 1–27.',
+        link: 'https://doi.org/10.29297/orbit.v2i2.109',
       },
       {
         referencia:
-          'International Rice Research Institute. (2019). <em>Simulador de Cultivo de Arroz</em>. IRRI. ',
-        link: 'https://www.irri.org/rice-crop-manager',
-      },
-      {
-        referencia:
-          'International Rice Research Institute. (2020). <em>Rice Crop Manager</em> [Simulador]. IRRI. ',
-        link: 'https://www.irri.org/rice-crop-manager',
-      },
-      {
-        referencia:
-          'International Society for Precision Agriculture. (2020). <em>Precision Agriculture Basics</em>. ISPA. ',
-        link:
-          'https://www.ispag.org/proceedings/?action=abstract&id=1234&title=Precision+Agriculture+Basics&search=types',
-      },
-      {
-        referencia:
-          'Nexus Integra. (2020). <em>Big Data vs. Inteligencia Artificial</em>. Nexus Integra. ',
+          'Nexus Integra. (2020). Big Data vs. Inteligencia Artificial. Nexus Integra.',
         link: 'https://nexusintegra.io/es/big-data-vs-inteligencia-artificial/',
       },
       {
         referencia:
-          'Precision Agriculture Center. (2019). <em>Case Studies in Precision Agriculture</em>. Precision Agriculture Center. ',
-        link: 'https://www.precisionagriculturecenter.org/case-studies',
-      },
-      {
-        referencia:
-          'Quinto, N. M. D., Villodas, A. J. C., Montero, C. P. C., Cueva, D. L. E., & Vera, S. A. N. (2021). <em>La inteligencia artificial y la toma de decisiones gerenciales</em>. Revista de Investigación Valor Agregado, 8(1), 52-69.',
+          'Quinto, N. M. D., Villodas, A. J. C., Montero, C. P. C., Cueva, D. L. E., & Vera, S. A. N. (2021). La inteligencia artificial y la toma de decisiones gerenciales. Revista de Investigación Valor Agregado, 8(1), 52-69.',
         link: '',
       },
       {
         referencia:
-          'Smart Agriculture. (2021). <em>IoT-Based Smart Agriculture: Sensors and Applications</em> [Video]. YouTube. ',
-        link: 'https://www.youtube.com/watch?v=IoT_Agriculture',
-      },
-      {
-        referencia:
-          'Sustainable Agriculture Research & Education. (2021). <em>Sustainable Agriculture: Principles and Practices</em> [Video]. YouTube. ',
-        link: 'https://www.youtube.com/watch?v=Sustainable_Agriculture',
-      },
-      {
-        referencia:
-          'University of California, Davis. (2020). <em>Predictive Modeling in Agriculture</em>. UCANR.',
-        link: 'https://ucanr.edu/sites/CE_San_Joaquin/files/324956.pdf',
+          'Researchgate.net. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de ',
+        link:
+          'https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
       },
     ],
   }),
