@@ -68,7 +68,7 @@ export default {
         {
           tema: 'Sensores IoT en Agricultura',
           referencia:
-            'Campus, A. [@AgroTechCampus]. (s/f). IoT en la Agricultura. [Video]. Youtube. Recuperado el 18 de junio de 2025, de https://www.youtube.com/watch?v=BU77lTxF5KY',
+            'Campus, A. [@AgroTechCampus]. (s/f). IoT en la Agricultura. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=BU77lTxF5KY',
         },
@@ -97,7 +97,7 @@ export default {
         {
           tema: 'Sostenibilidad en Agricultura',
           referencia:
-            'Español, C. en [@cnnee]. (n.d.). ¿Cómo se puede alcanzar una agricultura sostenible?. [Video]. Youtube. Recuperado el 18 de junio de 2025, de https://www.youtube.com/watch?v=c26KwI1Vc6o',
+            'Español, C. en [@cnnee]. (n.d.). ¿Cómo se puede alcanzar una agricultura sostenible?. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=c26KwI1Vc6o',
         },
