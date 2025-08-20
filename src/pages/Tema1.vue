@@ -150,8 +150,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema1/6.svg"
-            alt="El diagrama «Introducción al monitoreo agrícola», presenta un mapa conceptual sobre el tema, que se divide en seis secciones principales: importancia, beneficios, aplicaciones, tecnologías utilizadas, desafíos y conclusiones del monitoreo agrícola, cada una con sus respectivas subdivisiones que detallan aspectos específicos de cada tema.
-"
+            alt="El diagrama presenta un mapa conceptual sobre el tema, que se divide en seis secciones principales: importancia, beneficios, aplicaciones, tecnologías utilizadas, desafíos y conclusiones del monitoreo agrícola, cada una con sus respectivas subdivisiones que detallan aspectos específicos de cada tema."
           />
         </figure>
       </div>

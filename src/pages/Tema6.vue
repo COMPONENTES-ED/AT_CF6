@@ -303,7 +303,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema6/9.svg"
-            alt="El diagrama «Resumen aplicaciones prácticas del monitoreo y procesamiento de datos», es un mapa conceptual que se estructura en cuatro secciones principales: los desafíos en la agricultura, la integración de tecnologías de monitoreo y análisis de datos, las aplicaciones específicas (que incluyen optimización del proceso productivo, mejora de eficiencia operativa y promoción de la sostenibilidad), y los beneficios de estas aplicaciones como el aumento de productividad y la reducción de costos."
+            alt="El diagrama es un mapa conceptual que se estructura en cuatro secciones principales: los desafíos en la agricultura, la integración de tecnologías de monitoreo y análisis de datos, las aplicaciones específicas (que incluyen optimización del proceso productivo, mejora de eficiencia operativa y promoción de la sostenibilidad), y los beneficios de estas aplicaciones como el aumento de productividad y la reducción de costos."
           />
         </figure>
       </div>
