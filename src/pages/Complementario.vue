@@ -60,8 +60,7 @@ export default {
       return [
         {
           tema: 'Monitoreo de Variables en Sistemas Productivos',
-          referencia:
-            'Edu.co. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
+          referencia: 'Edu.co. (n.d.). [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
@@ -75,8 +74,7 @@ export default {
         },
         {
           tema: 'Análisis de Datos Agrícolas',
-          referencia:
-            'Researchgate.net. (n.d.). [Documento PDF]. Recuperado el 18 de junio de 2025, de https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
+          referencia: 'Researchgate.net. (n.d.). [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
@@ -106,7 +104,7 @@ export default {
         {
           tema: 'Simulador de Gestión Agrícola',
           referencia:
-            'Home. (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative. https://www.apsim.info/',
+            'Home. (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative.',
           tipo: 'Simulador',
           link: 'https://www.apsim.info/',
         },

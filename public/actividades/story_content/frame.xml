@@ -1178,6 +1178,7 @@
       <string id="acc_previous_visual">Anterior (Ctrl+Alt+,)</string>
       <string id="acc_replay">Volver a reproducir (Ctrl+Alt+R)</string>
       <string id="acc_search_input">búsqueda</string>
+      <string id="acc_search_results_status">%count% Resultados encontrados para %term%</string>
       <string id="acc_settings">Ajustes</string>
       <string id="acc_skipnavigation">Volver a la diapositiva</string>
       <string id="acc_slide_progress">progreso de la diapositiva</string>
@@ -1202,6 +1203,7 @@
       <string id="close">Cerrar</string>
       <string id="closed_captions">Subtítulos</string>
       <string id="closedcaptions_shortcut">Activar/desactivar subtítulos</string>
+      <string id="comma_key">Coma</string>
       <string id="continueresponsive">Continuar</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="desktop_start">Comenzar el curso</string>
@@ -1224,6 +1226,8 @@
       <string id="next">SIGUIENTE</string>
       <string id="next_shortcut">Siguiente</string>
       <string id="outline">Menú</string>
+      <string id="outline_container">Menú</string>
+      <string id="period_key">Punto</string>
       <string id="playback_speed_normal">Normal</string>
       <string id="playback_speed_title">Velocidad de reproducción</string>
       <string id="playpause_shortcut">Reproducir / pausar</string>
@@ -1235,6 +1239,7 @@
       <string id="progress_minutes">minutos</string>
       <string id="progress_second">segundo</string>
       <string id="progress_seconds">segundos</string>
+      <string id="question_mark_key">Signo de interrogación</string>
       <string id="replay_shortcut">Volver a reproducir</string>
       <string id="resources">Recursos</string>
       <string id="restart">Reiniciar</string>
@@ -1291,11 +1296,6 @@
       <string id="video_transcript_title">Transcripciones</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="continue">Continuar</string>
-      <string id="comma_key">Coma</string>
-      <string id="outline_container">Menú</string>
-      <string id="acc_search_results_status">%count% Resultados encontrados para %term%</string>
-      <string id="period_key">Punto</string>
-      <string id="question_mark_key">Signo de interrogación</string>
     </string_table>
   </string_tables>
   <fonts>
