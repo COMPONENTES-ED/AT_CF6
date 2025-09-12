@@ -59,22 +59,39 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Monitoreo de Variables en Sistemas Productivos',
-          referencia: 'Edu.co. (n.d.). [Documento PDF].',
+          tema: 'Caracterización de sistemas productivos',
+          referencia:
+            'Food and Agriculture Organization of the United Nations. (2015). <em>World Programme for the Census of Agriculture 2020.</em> [Documento PDF]. FAO.',
+          tipo: 'Documento',
+          link: 'https://www.fao.org/3/i4913e/i4913e.pdf',
+        },
+        {
+          tema: 'Caracterización de sistemas productivos',
+          referencia:
+            '<em>Censo Nacional Agropecuario 2014.</em> (n.d.). Gov.co.',
+          tipo: 'Documentos',
+          link:
+            'https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014',
+        },
+        {
+          tema: 'Monitoreo de variables en sistemas productivos',
+          referencia:
+            'Edu.co. (n.d.). Monitoreo y control de variables ambientales mediante una red inalámbrica para agricultura de precisión en invernaderos. [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://repositorio.ucaldas.edu.co/entities/publication/933cb604-6417-4792-82d8-a157c78af90a',
         },
         {
-          tema: 'Sensores IoT en Agricultura',
+          tema: 'Sensores IoT en agricultura',
           referencia:
-            'Campus, A. [@AgroTechCampus]. (s/f). IoT en la Agricultura. [Video]. Youtube.',
+            'Campus, A. [@AgroTechCampus]. (s/f). <em>IoT en la Agricultura.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=BU77lTxF5KY',
         },
         {
-          tema: 'Análisis de Datos Agrícolas',
-          referencia: 'Researchgate.net. (n.d.). [Documento PDF].',
+          tema: 'Análisis de datos agrícolas',
+          referencia:
+            'Researchgate.net. (n.d.). Análisis de Datos Agropecuarios. [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://www.researchgate.net/publication/373610354_Analisis_de_Datos_Agropecuarios',
@@ -82,29 +99,29 @@ export default {
         {
           tema: 'Simuladores de Cultivos',
           referencia:
-            'Food and Agriculture Organization of the United Nations. (2019). AquaCrop. [Simulador]. FAO.',
+            'Food and Agriculture Organization of the United Nations. (2019). <em>AquaCrop.</em> [Simulador]. FAO.',
           tipo: 'Simulador',
-          link: 'http://www.fao.org/aquacrop/es/',
+          link: 'http://www.fao.org/aquacrop/es/ ',
         },
         {
-          tema: 'Ética en la Gestión de Datos Agrícolas',
+          tema: 'Ética en la gestión de datos agrícolas',
           referencia:
-            'Mark, R. (2019). Ethics of using AI and big data in agriculture: The case of a large agriculture multinational. ORBIT Journal, 2(2), 1–27. https://doi.org/10.29297/orbit.v2i2.109',
+            'Mark, R. (2019). Ethics of using AI and big data in agriculture: The case of a large agriculture multinational. <em>ORBIT Journal</em>, 2(2), 1–27.',
           tipo: 'Documento',
           link:
-            'https://www.sciencedirect.com/science/article/pii/S2515856220300110',
+            'https://www.sciencedirect.com/science/article/pii/S2515856220300110 ',
         },
         {
-          tema: 'Sostenibilidad en Agricultura',
+          tema: 'Sostenibilidad en agricultura',
           referencia:
-            'Español, C. en [@cnnee]. (n.d.). ¿Cómo se puede alcanzar una agricultura sostenible?. [Video]. Youtube.',
+            'Español, C. en [@cnnee]. (n.d.). <em>¿Cómo se puede alcanzar una agricultura sostenible?.</em> [Video]. Youtube. ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=c26KwI1Vc6o',
         },
         {
-          tema: 'Simulador de Gestión Agrícola',
+          tema: 'Simulador de gestión agrícola',
           referencia:
-            'Home. (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative.',
+            '<em>Home.</em> (2019, septiembre 13). [Simulador Web]. APSIM; APSIM Initiative.',
           tipo: 'Simulador',
           link: 'https://www.apsim.info/',
         },
