@@ -82,6 +82,7 @@
               alt="La síntesis muestra un mapa conceptual de gestión y análisis de datos para el monitoreo de labores agrícolas, que se ramifica en 10 áreas principales. Abarca desde la importancia del uso eficiente de datos hasta la preparación para desafíos del sector, incluyendo tecnologías avanzadas (sensores IoT, drones), procesamiento de datos, desarrollo de competencias, y estrategias para optimizar recursos. Los subtemas detallan aspectos específicos como técnicas de ciencia de datos, machine learning y análisis de datos agrícolas."
             />
           </figure>
+          <figcaption class="mt-5">Fuente. OIT, 2024.</figcaption>
         </div>
         <div class="col-auto">
           <a
