@@ -55,7 +55,7 @@ export default {
       },
       {
         referencia:
-          'Gamco. (2021). <em>Los 5 desafíos del Big Data en Aprendizaje Automático</em> Gamco.',
+          'Gamco. (2021). <em>Los 5 desafíos del Big Data en Aprendizaje Automático.</em> Gamco.',
         link: 'https://gamco.es/los-5-desafios-del-big-data/',
       },
       {
